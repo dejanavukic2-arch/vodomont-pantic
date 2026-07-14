@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "vodomont-pantic",
+          "appId": "1:721262082922:android:4713c75f4eb35218a30313",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "vodomont-pantic",
+          "configurations": {
+            "android": "1:721262082922:android:4713c75f4eb35218a30313",
+            "ios": "1:721262082922:ios:75b6737a026b4071a30313",
+            "web": "1:721262082922:web:caf18e649a86af24a30313"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

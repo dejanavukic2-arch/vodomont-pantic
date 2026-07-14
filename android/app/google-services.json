@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "721262082922",
+    "project_id": "vodomont-pantic",
+    "storage_bucket": "vodomont-pantic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721262082922:android:4713c75f4eb35218a30313",
+        "android_client_info": {
+          "package_name": "com.example.vodomont_pantic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hiXYcq9p7xy3GsW1W5Y4U03hO9bqSpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721262082922:android:5e734892a375c005a30313",
+        "android_client_info": {
+          "package_name": "com.vodomontpantic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hiXYcq9p7xy3GsW1W5Y4U03hO9bqSpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
